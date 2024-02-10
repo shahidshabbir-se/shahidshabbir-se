@@ -2,7 +2,6 @@
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
 <h1 align="center">Hello 🌟, I'm Shahid Shabbir.</h1>
-![gitartwork](https://user-images.githubusercontent.com/71145709/235435179-7842d736-d5e6-4671-bbfb-7a61c07707a4.svg)
 <h3 align="center">A dedicated Full Stack Web Developer hailing from Pakistan 🚀.</h3>
 <p align="center">As a dedicated 🇵🇰 Full Stack Web Developer based in Pakistan, I bring a wealth of passion and expertise to the ever-evolving world of web development. 💻 With a commitment to excellence, I navigate the intricacies of both front-end and back-end technologies, ensuring seamless and efficient digital solutions. My goal is to craft innovative and user-centric experiences that not only meet but exceed expectations. 🚀 Ready to contribute my skills and drive for excellence to your next project. Let's build something extraordinary together! 👨‍💻</p>
 <p align="center">
