@@ -1,0 +1,357 @@
+@import './styles/_mixins'
+@import './styles/fonts'
+@import './styles/_variables'
+
+$blue: #4D81EE
+$pink: #e14f62
+$yellow: #e1b84f
+$purple: #845eee
+$green: #8FFF86
+$light-blue: #91D1F8
+@mixin table
+  background-color: #101010
+  color: white
+  font-size: 14px
+  border: 1px solid #444444
+@mixin table-heading
+  display: flex
+  padding-left: 1rem
+  padding-right: 1rem
+  align-items: center
+  border-bottom-color: #444444
+  border-style: solid
+  border-width: 0 0 1px 0
+  height: 2.5rem
+
+.section-1
+  height: 100%
+  overflow-x: hidden
+  @include centerAll
+
+  .slide-container
+    position: relative
+
+  .slide-wrapper
+    display: flex
+    align-items: center
+    position: absolute
+    z-index: -10
+    width: max-content
+    height: -webkit-fill-available
+
+    .slide
+      font-size: 20rem
+      font-family: $font-bold
+      color: black
+      opacity: 0.1
+      animation: slide-continous 10s linear infinite
+    @keyframes slide-continous
+      0%
+        transform: translateX(0%) translate3d(0, 0, 0),
+      100%
+        transform: translateX(-100%) translate3d(0, 0, 0)
+
+  .tagline
+    font-size: 6rem
+    text-align: center
+    color: white
+    font-weight: 300
+    letter-spacing: -10px
+    line-height: 1
+
+  .special-char
+    color: $green
+    margin-right: 1rem
+
+  @keyframes ping
+    75%, 100%
+      transform: scale(2)
+      opacity: 0
+
+  .phone-wrapper
+    position: fixed
+    width: 50%
+    z-index: 100
+    bottom: 10%
+    right: -45%
+
+  .phone
+    width: 25px
+    height: 25px
+    padding: 5px
+    background: white
+    margin: 0 auto
+    color: yellow
+    border-radius: 100%
+    transform: scaleX(-1)
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.5)
+
+  .dot
+    width: 10px
+    position: absolute
+    height: 10px
+    left: 25px
+    z-index: 100
+    top: 0
+    background-color: #ff5f56
+    border-radius: 100%
+    animation: ping 1s infinite
+
+.section-2
+  width: 100%
+  flex-direction: column
+  @include centerAll
+
+  .typeWriter-wrapper
+    display: inline-block
+    color: white
+    font-size: 4rem
+    display: flex
+    width: max-content
+    gap: 1rem
+    min-height: 88px
+    opacity: 1
+    transition: opacity 5s linear
+
+  .special-text
+    color: $green
+
+  .tables
+    position: relative
+    @include centerAll
+    margin-bottom: 20%
+    .table-1
+      width: 53%
+      @include table
+      .table-heading
+        @include table-heading
+      .table-content
+        display: flex
+        align-items: center
+        padding: 1rem
+
+      .list
+        list-style-type: decimal
+        padding: 8px 8px 0px 16px
+        font-family: $font-reg
+        color: white
+        font-size: 16px
+        margin: 0px
+
+      .list li
+        margin-bottom: 0.25rem
+        line-height: 1.5
+        margin-left: 16px
+
+      .list li::marker
+        color: #7c7c7c
+
+      .list li span
+        margin: 0 0.25rem
+
+      .list li:nth-child(1) span:nth-child(1)
+        color: $green
+
+      .list li:nth-child(2) span:nth-child(1)
+        color: $blue
+      .list li:nth-child(2) span:nth-child(2)
+        color: $pink
+        margin-left: 0px
+      .list li:nth-child(2) span:nth-child(3)
+        color: $yellow
+      .list li:nth-child(2) span:nth-child(4)
+        color: $blue
+      .list li:nth-child(2) span:nth-child(5)
+        color: $light-blue
+        margin-left: 0px
+      .list li:nth-child(3) span:nth-child(1)
+        color: $green
+      .list li:nth-child(3) span:nth-child(2)
+        color: $yellow
+        margin-right: 0px
+      .list li:nth-child(3) span:nth-child(3)
+        color: $blue
+        margin-right: 0px
+      .list li:nth-child(3) span:nth-child(4)
+        color: $pink
+
+      .list li:nth-child(4) span:nth-child(1)
+        color: $purple
+        margin-left: 0px
+      .list li:nth-child(4) span:nth-child(2)
+        color: $pink
+      .list li:nth-child(4) span:nth-child(3)
+        color: $yellow
+      .list li:nth-child(4) span:nth-child(4)
+        color: $light-blue
+        margin-right: 0px
+      .list li:nth-child(4) span:nth-child(5)
+        color: $green
+    .table-2
+      max-width: 250px
+      z-index: 1
+      position: absolute
+      right: 5%
+      bottom: -60%
+      @include table
+
+      .table-heading
+        @include table-heading
+
+.table-2 .image-container
+  height: 270px
+  width: 250px
+  background-color: $green
+  position: relative
+  overflow-x: clip
+
+  .profile-image
+    position: absolute
+    left: -22%
+    bottom: -5%
+    object-fit: cover
+
+.section-2 .tables .table-3
+  position: absolute
+  left: 5%
+  bottom: -50%
+  @include table
+  width: 250px
+
+  .table-heading
+    @include table-heading
+
+  .table-content
+    display: flex
+    align-items: center
+    padding: 1rem
+    font-size: 16px
+
+    .list
+      list-style-type: decimal
+      padding: 8px 8px 0px 16px
+      margin: 0px
+      font-family: $font-reg
+
+    .list li
+      margin-bottom: 0.25rem
+      line-height: 1.5
+      margin-left: 16px
+
+    .list li::marker
+      color: #7c7c7c
+    .list a
+      padding-left: 0.25rem
+      text-decoration: none
+      color: white
+      &:hover
+        color: $green
+
+.about-me
+  position: absolute
+  bottom: -30%
+  @include centerAll
+  gap: 0.5rem
+  border-width: 1px
+  border-style: solid
+  border-color: #7c7c7c
+  font-size: 14px
+  font-family: $font-reg
+  height: 40px
+  padding: 0 1.5rem
+  color: white
+  background: linear-gradient(to right, #253624 50%, black 50%)
+  background-size: 200% 100%
+  background-position: right bottom
+  transition: all .5s ease-out
+
+.about-me:hover
+  background-position: left bottom
+  border-color: $green
+  color: $green
+
+.about-me p
+  text-align: center
+  line-height: 30px
+  color: white
+  transition: all .6s ease-out
+  display: block
+
+  &:hover
+    color: $green
+
+.section-3
+  width: 100%
+  @include centerAll
+
+  .table
+    @include table
+    width: 80%
+    margin: 5rem 0
+    .table-heading
+      @include table-heading
+
+    .table-content
+      display: flex
+      flex-direction: row
+      padding: 2.5rem
+      gap: 2.5rem
+
+      .profile
+        position: relative
+        width: 128px
+        height: 128px
+        background: $green
+        border-radius: 100%
+        // overflow: hidden
+        z-index: 0
+        .profile-img
+          object-fit: cover
+          height: 158px
+          bottom: -2.5px
+          width: 128px
+          border-radius: 100%
+          position: absolute
+          z-index: -1
+        .clap-icon
+          position: absolute
+          bottom: 12.5px
+          right: 0
+          width: 30px
+          color: $yellow
+          height: 30px
+          z-index: 100
+
+      .text-content
+        width: 80%
+        display: flex
+        flex-direction: column
+        gap: 2rem
+
+        .text
+          font-size: 4rem
+          color: white
+          line-height: 1.5
+          margin: 0
+
+        .contact-me
+          @include centerAll
+          gap: 0.5rem
+          width: max-content
+          border-width: 1px
+          border-style: solid
+          border-color: #7c7c7c
+          font-size: 14px
+          font-family: $font-reg
+          height: 50px
+          padding: 0 2rem
+          color: white
+          background: linear-gradient(to right, #253624 50%, black 50%)
+          background-size: 200% 100%
+          background-position: right bottom
+          transition: all .5s ease-out
+
+          &:hover
+            background-position: left bottom
+            border-color: $green
+            color: $green
