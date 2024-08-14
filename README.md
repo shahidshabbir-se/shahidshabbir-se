@@ -76,7 +76,7 @@
 
 <h3 align="left">Activity:</h3>
 
-![Shahid's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shahid-Shabbir-Ansari-SE&custom_title=Shahid's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=214c88&line=214c88&point=214c88&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Shahid's Graph](https://github-readme-activity-graph.vercel.app/graph?username=shahidshabbir-se&custom_title=Shahid's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=214c88&line=214c88&point=214c88&area_color=FFFFFF&title_color=FFFFFF&area=true)
 <br><br>
 
 <img align="left" src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
