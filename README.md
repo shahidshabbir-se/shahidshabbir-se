@@ -70,7 +70,7 @@
 <h3 align="left">GitHub Stats:</h3>
 <div align="center">
  
-![Shahid's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shahid-Shabbir-Ansari-SE\&theme=transparent\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
+![Shahid's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahidshabbir-se\&theme=transparent\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Shahid-Shabbir-Ansari-SE&theme=transparent)](https://git.io/streak-stats)
 
