@@ -1,4 +1,4 @@
-![alt](https://i.ibb.co/q7BBt8H/Itsuki-Takahashi-4.png)
+
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
 <h1 align="center">Hello 🌟, I'm Shahid Shabbir.</h1>
@@ -20,7 +20,8 @@
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/BackendDevelopment/nodejs.svg" alt="icon" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/BackendDevelopment/express.svg" alt="icon" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png" alt="icon" width="50" height="50"/>
-
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/800px-Svelte_Logo.svg.png" alt="icon" width="40" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Cuddlyferris.svg/512px-Cuddlyferris.svg.png?20200229163036" alt="icon" width="60" height="50"/>
   </br>
 </div>
 
