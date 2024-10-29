@@ -22,6 +22,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png" alt="icon" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/800px-Svelte_Logo.svg.png" alt="icon" width="40" height="50"/>
   <img src="https://miro.medium.com/v2/resize:fit:1000/0*YISbBYJg5hkJGcQd.png" alt="icon" width="50" height="50"/>
+  <img src="https://astro.build/favicon.svg" alt="icon" width="50" height="50"/>
   </br>
 </div>
 
