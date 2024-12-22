@@ -8,7 +8,7 @@
 <img src="https://komarev.com/ghpvc/?username=Shahid-Shabbir-Ansari-SE&label=Profile%20views&color=0e75b6&style=flat" alt="Shahid Shabbir" />
 
 <h3 align="center">Tech Stack</h3>
-<br>
+
 <div align="center">
   <img src="https://www.w3.org/html/logo/downloads/HTML5_Badge.svg" alt="icon" width="50" height="50"/>
   <img src="https://stackroulette.dev/img/css3.dd6260f9.svg" alt="icon" width="50" height="50"/>
@@ -25,7 +25,6 @@
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="55" height="55"/>
   <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="55" height="55"/>
   <img src="https://astro.build/favicon.svg" alt="icon" width="50" height="50"/>
-  </br>
 </div>
 
 <h3 align="center">Tools</h3>
@@ -67,9 +66,8 @@
 <a href="https://twitter.com/ShahidShabbirSE" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Shahid.Shabbir" height="35" width="40" /></a>
 <a href="https://www.upwork.com/freelancers/~0182ed81f3b2a01e9a" target="blank"><img align="center" src="https://i.ibb.co/s6gGqpt/Untitled-removebg-preview.png" alt="Shahid.Shabbir" height="38" width="40" /></a>
 </p>
-<br>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" height="1" width="100%">
 </div>
 
 <h3 align="left">GitHub Stats & Activity</h3>
