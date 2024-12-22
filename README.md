@@ -44,7 +44,7 @@
 </div>
 
 <div>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/3c2a37ec9351da33136694e45215e5091ae0e0a14d52da27af08547a034e0295/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f524b354b443655635570417439327a5a76742f67697068792e676966">
 <br>
 
 - 🌱 I’m currently learning **AI/ML**
