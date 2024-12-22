@@ -14,14 +14,16 @@
   <img src="https://stackroulette.dev/img/css3.dd6260f9.svg" alt="icon" width="50" height="50"/>
   <img src="https://www.freepnglogos.com/uploads/javascript/javascript-online-logo-for-website-0.png" alt="icon" width="50" height="50"/>
   <img src="https://stackroulette.dev/img/tailwindcss.3323dd02.svg" alt="icon" width="50" height="50"/>
-  <img src="https://stackroulette.dev/img/react.389ef15c.svg" alt="icon" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png" alt="icon" width="50" height="50"/>
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="55"/>
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="55" height="55"/>
   <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="icon" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/BackendDevelopment/nodejs.svg" alt="icon" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/BackendDevelopment/express.svg" alt="icon" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png" alt="icon" width="50" height="50"/>
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="60" height="60"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/800px-Svelte_Logo.svg.png" alt="icon" width="40" height="50"/>
-  <img src="https://miro.medium.com/v2/resize:fit:1000/0*YISbBYJg5hkJGcQd.png" alt="icon" width="50" height="50"/>
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="55" height="55"/>
+  <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="55" height="55"/>
   <img src="https://astro.build/favicon.svg" alt="icon" width="50" height="50"/>
   </br>
 </div>
@@ -45,7 +47,7 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br>
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently learning **AI/ML**
 
 - 👨‍💻 All of my projects are available at [Shahid's workspace](https://github.com/shahidshabbir-se?tab=repositories)
 
