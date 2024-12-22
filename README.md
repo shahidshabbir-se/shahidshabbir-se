@@ -77,7 +77,8 @@
  
 ![Shahid's GitHub Stats and Activity](https://raw.githubusercontent.com/shahidshabbir-se/shahidshabbir-se/master/profile-3d-contrib/profile-night-rainbow.svg)
 
-<img align="left" src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img align="left" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" height="1" width="100%">
+<br>
 
 <img align="left" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><h3 align="left"><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b></h3></em>
 
