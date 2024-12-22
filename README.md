@@ -69,17 +69,10 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
-<h3 align="left">GitHub Stats:</h3>
+<h3 align="left">GitHub Stats & Activity</h3>
 <div align="center">
  
-![Shahid's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahidshabbir-se\&theme=transparent\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Shahid-Shabbir-Ansari-SE&theme=transparent)](https://git.io/streak-stats)
-
-<h3 align="left">Activity:</h3>
-
-![Shahid's Graph](https://github-readme-activity-graph.vercel.app/graph?username=shahidshabbir-se&custom_title=Shahid's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=214c88&line=214c88&point=214c88&area_color=FFFFFF&title_color=FFFFFF&area=true)
-<br><br>
+![Shahid's GitHub Stats and Activity](https://raw.githubusercontent.com/shahidshabbir-se/shahidshabbir-se/master/profile-3d-contrib/profile-night-rainbow.svg)
 
 <img align="left" src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
