@@ -41,7 +41,7 @@
 <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
 
 <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50" />
-<img src="https://www.kdab.com/wp-content/uploads/stories/Nix_Snowflake_Logo.svg" alt="icon" width="45" height="50"/>
+<img src="https://media.tenor.com/mCTZDwbh0d8AAAAj/nixos.gif" alt="icon" width="45" height="50"/>
 
 </div>
 
