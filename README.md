@@ -50,7 +50,7 @@
 <br>
 
   
-- 🌱 I’m currently learning **AI/ML**
+- 🌱 I’m currently learning **Golang**
 
 - 👨‍💻 All of my projects are available at [Shahid's workspace](https://github.com/shahidshabbir-se?tab=repositories)
 
