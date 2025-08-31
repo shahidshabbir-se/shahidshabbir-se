@@ -36,7 +36,7 @@
 
 <!-- Interactive Connect Button -->
 <div align="center">
-  <a href="[#connect](https://www.linkedin.com/in/shahid-shabbir-se)">
+  <a href="https://www.linkedin.com/in/shahid-shabbir-se">
     <img src="https://img.shields.io/badge/🤝_Let's_Connect!-Click_Here-667eea?style=for-the-badge&logo=handshake&logoColor=white&labelColor=1e1e2e&color=667eea"/>
   </a>
 </div>
